@@ -1,0 +1,8 @@
+Tenemos principalmente dos tipos de variantes:
+
+Sistemas centralizados: En estos sistemas hay un servidor que mantiene el repositorio y en el que
+cada programador mantiene en local únicamente aquellos archivos con los que está trabajando en un
+momento dado. Yo necesito conectarme con el servidor donde está el código para poder trabajar y
+enviar cambios en el software que se está programando. Ese sistema centralizado es el único lugar
+donde está todo el código del proyecto de manera completa. Subversion o CVS son sistemas de
+control de versiones centralizados.
